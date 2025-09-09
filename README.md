@@ -35,7 +35,7 @@ An intelligent and interactive web application built with **Streamlit** that pre
 ## 📂 Project Structure
 
 ```
-Health_Insurance_Cost_Predictor/
+ML-Project-Healthcare-Premium-Prediction/
 │
 ├── artifacts/                      # Serialized models and scalers
 │   ├── model_rest.joblib           # XGBoost model for age > 25
