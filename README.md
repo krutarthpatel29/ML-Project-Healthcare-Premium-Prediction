@@ -100,7 +100,7 @@ ML-Project-Healthcare-Premium-Prediction/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/Health-Insurance-Premium-Predictor.git
+git clone https://github.com/your-username/ML-Project-Healthcare-Premium-Prediction.git
 cd Health-Insurance-Premium-Predictor
 
 # 2. Install dependencies
